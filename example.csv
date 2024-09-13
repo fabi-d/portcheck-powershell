@@ -1,0 +1,7 @@
+Name,Target,TestType,ExpectedResult
+Cloudflare,1.1.1.1,Ping,1
+Cloudflare,1.1.1.1,DNS,1
+Google,1.1.1.1,Ping,1
+Google,1.1.1.1,DNS,1
+Google Website,google.com,443,1
+YouTube Website,youtube.com,443,1
