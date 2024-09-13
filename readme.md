@@ -28,6 +28,7 @@ The CSV file should have the following columns:
 Example CSV file:
 
 ```csv
+Name,Target,TestType,ExpectedResult
 Cloudflare,1.1.1.1,Ping,1
 Cloudflare,1.1.1.1,DNS,1
 Google,1.1.1.1,Ping,1
